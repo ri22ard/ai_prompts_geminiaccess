@@ -25,7 +25,7 @@ This is an aspirational approach that frames directorship not as a burden of com
 -	Generated Hooks:
   - "Beyond compliance, the modern director serves as a critical architect of corporate strategy, resilience, and long-term value."
   - "Effective directorship is no longer about managing the present; it's about building a governance framework that empowers future success and withstands any challenge."
-  - "Great boards don't just mitigate risk—they drive performance. This programme is designed for directors who aim to move from oversight to active strategic leadership."
+  - "Great boards don't just mitigate risk – they drive performance. This programme is designed for directors who aim to move from oversight to active strategic leadership."
 
 ## 3. The "Direct Challenge / Provocative Question" Angle
 
@@ -43,6 +43,6 @@ This approach demonstrates immediate relevance by referencing a specific, curren
 
 -	Your Prompt: "Write an opener with a 'Specific Pain-Point' angle, mentioning the challenge of economic substance for offshore directors."
 -	Generated Hooks:
-  - "Successfully navigating Jersey's economic substance legislation is only the baseline for today's offshore director; true effectiveness requires mastering a far broader set of risks and responsibilities."
+  - "Complying with Jersey's economic substance legislation is only the baseline for today's offshore director; true effectiveness demands a deep command of a much wider spectrum of risks and responsibilities."
   - "In the Channel Islands, directors face a unique dual pressure: satisfying complex global standards while driving local corporate performance."
 
