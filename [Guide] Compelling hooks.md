@@ -2,6 +2,11 @@
 # REWORK WORDING SO CAN BE USED AS A GUIDE
 
 
+> 5 surprising engaging fact
+https://schoolofpodcasting.com/five-proven-strategies-for-crafting-unforgettable-podcast-hooks/#:~:text=3.%20The%20Shocking%20Fact%20Hook
+
+
+
 
 # How to Prompt for a Compelling Hook
 
@@ -45,4 +50,12 @@ This approach demonstrates immediate relevance by referencing a specific, curren
 -	Generated Hooks:
   - "Complying with Jersey's economic substance legislation is only the baseline for today's offshore director; true effectiveness demands a deep command of a much wider spectrum of risks and responsibilities."
   - "In the Channel Islands, directors face a unique dual pressure: satisfying complex global standards while driving local corporate performance."
+
+## 5. The "Surprising Fact / Engaging Statement" Angle
+
+This hook leads with a surprising statistic or statement that challenges common beliefs.
+
+-	Your Prompt: "Start with a 'Surprising Fact' by stating a factoid that may come of surprise to a director."
+-	Generated Hooks:
+
 
